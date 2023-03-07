@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\IBag-151.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\IBag-151.dir/objects.a @CMakeFiles\IBag-151.dir\objects1
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\IBag-151.dir/objects.a -Wl,--no-whole-archive -o IBag-151.exe -Wl,--out-implib,libIBag-151.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\IBag-151.dir\linkLibs.rsp
